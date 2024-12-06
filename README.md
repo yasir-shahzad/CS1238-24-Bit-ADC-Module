@@ -113,11 +113,11 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
-![Schematic Diagram](https://github.com/yasir-shahzad/CCS1238-24-Bit-ADC-Module/blob/master/images/Schematic.png)
+![Schematic Diagram](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/blob/master/images/Schematic.png)
 
 ## PCB Layout 🖼️  
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-![PCB Board](https://github.com/yasir-shahzad/CCS1238-24-Bit-ADC-Module/blob/master/images/PCB%20Board.png)
+![PCB Board](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/blob/master/images/PCB%20Board.png)
 
 
 ## Features

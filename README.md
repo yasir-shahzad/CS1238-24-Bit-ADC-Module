@@ -142,6 +142,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 ## Resources
 
 - **Datasheet**: [CS1238 Datasheet](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/blob/master/documents/CS1238_datasheet.pdf)
+- ** AliExpress Link**: [CS1238 Module](https://www.aliexpress.com/item/1005005560934399.html)
 
 ## Requirements 📋
 

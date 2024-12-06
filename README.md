@@ -1,13 +1,13 @@
 # ⚡ CS1238-24-Bit-ADC-Module ⚙️
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/S1238-24-Bit-ADC-Module/latest)](https://github.com/yasir-shahzad/S1238-24-Bit-ADC-Module/commits/master) 
-[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/S1238-24-Bit-ADC-Module.svg)](https://github.com/yasir-shahzad/S1238-24-Bit-ADC-Module/issues) 
-[![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/S1238-24-Bit-ADC-Module/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/S1238-24-Bit-ADC-Module/releases/latest) 
-![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_S1238-24-Bit-ADC-Module)
+[![Commits since latest](https://img.shields.io/github/commits-since/yasir-shahzad/CS1238-24-Bit-ADC-Module/latest)](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/commits/master) 
+[![GitHub issues](https://img.shields.io/github/issues/yasir-shahzad/CS1238-24-Bit-ADC-Module.svg)](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/issues) 
+[![Downloads](https://img.shields.io/github/downloads/yasir-shahzad/CS1238-24-Bit-ADC-Module/total.svg?maxAge=3600)](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/releases/latest) 
+![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=yasir-shahzad_CS1238-24-Bit-ADC-Module)
 
-If you like **S1238-24-Bit-ADC-Module** - give it a star, or fork it and contribute!  
-[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/S1238-24-Bit-ADC-Module.svg?style=social&label=Star)](https://github.com/yasir-shahzad/S1238-24-Bit-ADC-Module/stargazers)  
-[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/S1238-24-Bit-ADC-Module.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/S1238-24-Bit-ADC-Module/network)
+If you like **CS1238-24-Bit-ADC-Module** - give it a star, or fork it and contribute!  
+[![GitHub stars](https://img.shields.io/github/stars/yasir-shahzad/CS1238-24-Bit-ADC-Module.svg?style=social&label=Star)](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/stargazers)  
+[![GitHub forks](https://img.shields.io/github/forks/yasir-shahzad/CS1238-24-Bit-ADC-Module.svg?style=social&label=Fork)](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/network)
 
 This repository contains the open-source schematic and PCB design files for a CS1238 24-Bit ADC Module, created using Altium Designer. This module allows you to work with the CS1238 ADC for high-precision analog-to-digital conversion in your projects.
 
@@ -113,11 +113,11 @@ If you'd like to contribute and help bring more exciting projects to life, consi
 
 ## Schematic Diagram 📉  
 The complete schematic diagram shows the electrical connections and components used in the design.  
-![Schematic Diagram](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/blob/master/images/Schematic.png)
+![Schematic Diagram](https://github.com/yasir-shahzad/CCS1238-24-Bit-ADC-Module/blob/master/images/Schematic.png)
 
 ## PCB Layout 🖼️  
 The PCB layout represents the physical arrangement of components on the printed circuit board, detailing how they are positioned and connected.  
-![PCB Board](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/blob/master/images/PCB%20Board.png)
+![PCB Board](https://github.com/yasir-shahzad/CCS1238-24-Bit-ADC-Module/blob/master/images/PCB%20Board.png)
 
 
 ## Features
@@ -141,7 +141,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 
 ## Resources
 
-- **Datasheet**: [CS1238 Datasheet](https://github.com/yasir-shahzad/CS1238-24-Bit-ADC-Module/blob/master/documents/CS1238_datasheet.pdf)
+- **Datasheet**: [CS1238 Datasheet](https://github.com/yasir-shahzad/CCS1238-24-Bit-ADC-Module/blob/master/documents/CS1238_datasheet.pdf)
 - ** AliExpress Link**: [CS1238 Module](https://www.aliexpress.com/item/1005005560934399.html)
 
 ## Requirements 📋

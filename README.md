@@ -191,7 +191,7 @@ The PCB layout represents the physical arrangement of components on the printed 
 
 ## Contributing 🤝
 
-We encourage contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or additional features.
+We encourage contributions to this project! Feel free to submit pull requests with improvements, bug fixes, or additional features..
 
 ## Thanks to all contributors ❤️
 
